@@ -2,15 +2,15 @@ import { CheckCircle2 } from 'lucide-react'
 
 const highlights = [
   'Mais de 500 eventos realizados em Salvador e região',
-  'Culinária baiana tradicional e gastronomia gourmet',
+  'Locação completa de mobiliário e utensílios premium',
   'Equipe especializada e materiais de alta qualidade',
   'Atendimento personalizado do planejamento à execução',
 ]
 
 const galleryImages = [
-  { src: '/images/gastronomia-1.jpeg', alt: 'Gastronomia de natal' },
-  { src: '/images/confeitaria-2.jpeg', alt: 'Sobremesas artesanais' },
-  { src: '/images/gastronomia-3.jpeg', alt: 'Pratos especiais' },
+  { src: '/images/buffet-baiano.jpeg', alt: 'Estrutura estilo baiano' },
+  { src: '/images/decoracao-1.jpeg', alt: 'Decoração e utensílios' },
+  { src: '/images/locacao-2.jpeg', alt: 'Materiais Premium' },
   { src: '/images/locacao-1.jpeg', alt: 'Equipamentos para locação' },
 ]
 
@@ -28,15 +28,15 @@ export default function About() {
             <div className="w-16 h-0.5 bg-wine mb-6" />
 
             <p className="text-charcoal/70 leading-relaxed mb-4">
-              A Penélope Eventos nasceu do amor pela gastronomia e pela arte de celebrar.
+              A Penélope Eventos nasceu do amor pela arte de celebrar e decorar.
               Localizados no coração de{' '}
               <strong className="text-charcoal">Itapuã, Salvador – BA</strong>, somos
-              especialistas em transformar cada celebração em uma experiência única e
-              inesquecível.
+              especialistas em locação de materiais e decoração para transformar cada celebração
+              em uma experiência única e inesquecível.
             </p>
             <p className="text-charcoal/70 leading-relaxed mb-6">
               Com mais de uma década de experiência, nossa equipe cuida de cada detalhe —
-              do cardápio personalizado à decoração refinada — para que você aproveite cada
+              da locação de materiais de alta qualidade à decoração refinada — para que você aproveite cada
               momento ao lado de quem ama.
             </p>
 

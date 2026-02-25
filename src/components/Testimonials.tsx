@@ -14,7 +14,7 @@ const testimonials = [
     name: 'João Ribeiro',
     event: 'Formatura',
     rating: 5,
-    text: 'Contratamos para a formatura do nosso grupo e foi incrível. A gastronomia baiana estava autêntica e gostosa, os materiais de locação eram de alta qualidade. Super profissionais e pontuais!',
+    text: 'Contratamos para a formatura do nosso grupo e foi incrível. O acervo de mesa deu um toque especial, e os materiais de locação eram de alta qualidade. Super profissionais e pontuais!',
     initial: 'J',
   },
   {
@@ -22,7 +22,7 @@ const testimonials = [
     name: 'Ana Carolina',
     event: 'Aniversário',
     rating: 5,
-    text: 'O aniversário da minha mãe ficou lindo! Os doces artesanais foram um show à parte — todo mundo elogiou. A equipe foi super atenciosa desde o orçamento até o final do evento. Recomendo muito!',
+    text: 'O aniversário da minha mãe ficou lindo! A prataria e as taças foram um show à parte — todo mundo elogiou. A equipe foi super atenciosa desde o orçamento até o final do evento. Recomendo muito!',
     initial: 'A',
   },
   {
@@ -38,7 +38,7 @@ const testimonials = [
     name: 'Fernanda Costa',
     event: 'Chá de bebê',
     rating: 5,
-    text: 'Realizei meu sonho com a Penélope Eventos! O chá de bebê ficou mágico. Os arranjos florais eram lindíssimos e a mesa de doces foi o destaque da festa. Valeu cada centavo!',
+    text: 'Realizei meu sonho com a Penélope Eventos! O chá de bebê ficou mágico. Os arranjos florais eram lindíssimos e a apresentação da mesa foi o destaque da festa. Valeu cada centavo!',
     initial: 'F',
   },
   {
@@ -46,7 +46,7 @@ const testimonials = [
     name: 'Carlos Mendes',
     event: 'Evento Corporativo',
     rating: 5,
-    text: 'Profissionalismo exemplar. Nosso evento corporativo em Salvador teve todo o suporte necessário: desde a montagem até o desmonte. A gastronomia gourmet agradou a todos os executivos presentes.',
+    text: 'Profissionalismo exemplar. Nosso evento corporativo em Salvador teve todo o suporte necessário: desde a escolha até a entrega dos materiais. A qualidade das peças impressionou os executivos.',
     initial: 'C',
   },
 ]

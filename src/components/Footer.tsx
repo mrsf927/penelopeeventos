@@ -10,12 +10,12 @@ const navLinks = [
 ]
 
 const services = [
-  'Locação para Buffet',
-  'Gastronomia Gourmet',
-  'Confeitaria & Doces',
-  'Locação de Materiais',
-  'Decoração de Mesas',
-  'Estilo Baiano',
+  'Louças para Buffet',
+  'Réchauds e Cubas',
+  'Talheres de Prata',
+  'Taças e Copos',
+  'Pratos e Travessas',
+  'Utensílios',
 ]
 
 export default function Footer() {

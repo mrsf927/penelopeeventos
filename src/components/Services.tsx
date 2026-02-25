@@ -3,49 +3,49 @@ import { ArrowRight } from 'lucide-react'
 const services = [
   {
     id: 1,
-    title: 'Locação para Buffet',
+    title: 'Louças para Buffet',
     description:
-      'Locação completa de materiais para buffet: rechauds, mesas, toalhas, louças premium e toda a estrutura para o seu evento.',
+      'Ampla variedade de louças elegantes e resistentes para servir seus convidados com sofisticação e estilo em qualquer ocasião.',
     image: '/images/buffet-1.jpeg',
     tag: 'Mais Pedido',
   },
   {
     id: 2,
-    title: 'Gastronomia Gourmet',
+    title: 'Réchauds e Cubas',
     description:
-      'Pratos elaborados com ingredientes selecionados. Da cozinha baiana clássica às preparações internacionais, cada prato é uma experiência.',
-    image: '/images/gastronomia-2.jpeg',
-    tag: null,
-  },
-  {
-    id: 3,
-    title: 'Confeitaria & Doces',
-    description:
-      'Bolos artesanais, sobremesas refinadas e doces finos que encantam os olhos e o paladar. Cada peça é criada com técnica e muito amor.',
-    image: '/images/confeitaria-1.jpeg',
-    tag: null,
-  },
-  {
-    id: 4,
-    title: 'Locação de Materiais',
-    description:
-      'Rechauds, mesas, cadeiras, toalhas, louças e toda a estrutura que seu evento precisa. Equipamentos de qualidade para um serviço perfeito.',
+      'Mantenha a temperatura ideal dos seus pratos com nossos réchauds de alta qualidade, garantindo uma apresentação profissional.',
     image: '/images/locacao-2.jpeg',
     tag: null,
   },
   {
-    id: 5,
-    title: 'Decoração de Mesas',
+    id: 3,
+    title: 'Talheres de Prata',
     description:
-      'Arranjos florais, taças de cristal, centros de mesa e toda a elegância que transforma uma mesa comum em um cenário deslumbrante.',
+      'Conjuntos completos de talheres que adicionam um toque de requinte e elegância à composição da sua mesa.',
+    image: '/images/gastronomia-2.jpeg',
+    tag: null,
+  },
+  {
+    id: 4,
+    title: 'Taças e Copos',
+    description:
+      'Cristaleria fina e copos de diversos modelos para todos os tipos de bebidas, valorizando a experiência do seu evento.',
+    image: '/images/confeitaria-1.jpeg',
+    tag: null,
+  },
+  {
+    id: 5,
+    title: 'Pratos e Travessas',
+    description:
+      'Peças em diversos tamanhos e formatos para uma apresentação impecável de cada momento da sua recepção.',
     image: '/images/decoracao-1.jpeg',
     tag: null,
   },
   {
     id: 6,
-    title: 'Estilo Baiano',
+    title: 'Utensílios',
     description:
-      'Locação com o charme baiano: panelas de barro, rechauds e toda a estrutura para montar um buffet no estilo típico da Bahia.',
+      'Arranjos florais, centros de mesa e todos os utensílios práticos e decorativos para criar um ambiente memorável.',
     image: '/images/buffet-baiano.jpeg',
     tag: 'Especialidade',
   },

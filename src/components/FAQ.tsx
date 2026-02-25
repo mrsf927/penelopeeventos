@@ -33,9 +33,9 @@ const faqs = [
       'Sim! Essa é uma das nossas especialidades. Temos em nosso acervo panelas de barro, rechauds e toda a estrutura para montar um buffet no estilo baiano tradicional, dando aquele toque autêntico da Bahia ao seu evento.',
   },
   {
-    question: 'Posso personalizar o cardápio para restrições alimentares?',
+    question: 'Vocês realizam a entrega e retirada dos materiais?',
     answer:
-      'Sim, com prazer! Desenvolvemos cardápios especiais para convidados com restrições como vegetarianismo, veganismo, intolerância ao glúten e à lactose. Basta nos informar no momento do orçamento para garantirmos opções adequadas a todos os seus convidados.',
+      'Sim, oferecemos suporte logístico completo! Entregamos todas as louças, mesas, rechauds e demais materiais diretamente no local do seu evento. Também cuidamos da retirada após o término, proporcionando uma experiência sem preocupações.',
   },
   {
     question: 'Qual a forma de pagamento aceita?',
@@ -61,9 +61,8 @@ function FAQItem({ question, answer }: { question: string; answer: string }) {
         </span>
       </button>
       <div
-        className={`overflow-hidden transition-all duration-300 ${
-          isOpen ? 'max-h-96 pb-5' : 'max-h-0'
-        }`}
+        className={`overflow-hidden transition-all duration-300 ${isOpen ? 'max-h-96 pb-5' : 'max-h-0'
+          }`}
       >
         <p className="text-charcoal/65 text-sm leading-relaxed">{answer}</p>
       </div>
