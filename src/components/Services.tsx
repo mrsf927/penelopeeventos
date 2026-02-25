@@ -3,9 +3,9 @@ import { ArrowRight } from 'lucide-react'
 const services = [
   {
     id: 1,
-    title: 'Buffet Completo',
+    title: 'Locação para Buffet',
     description:
-      'Serviço completo de buffet para todos os tipos de evento. Montagem impecável com mesas elegantes, louças premium e atendimento personalizado.',
+      'Locação completa de materiais para buffet: rechauds, mesas, toalhas, louças premium e toda a estrutura para o seu evento.',
     image: '/images/buffet-1.jpeg',
     tag: 'Mais Pedido',
   },
@@ -43,9 +43,9 @@ const services = [
   },
   {
     id: 6,
-    title: 'Buffet Baiano',
+    title: 'Estilo Baiano',
     description:
-      'Especialidade da casa: culinária baiana autêntica com panelas de barro, azeite de dendê, moquecas e todo o sabor da Bahia para o seu evento.',
+      'Locação com o charme baiano: panelas de barro, rechauds e toda a estrutura para montar um buffet no estilo típico da Bahia.',
     image: '/images/buffet-baiano.jpeg',
     tag: 'Especialidade',
   },
@@ -63,8 +63,7 @@ export default function Services() {
           <h2 className="section-title text-charcoal mt-3 mb-4">Nossos Serviços</h2>
           <div className="w-16 h-0.5 bg-gold mx-auto my-4" />
           <p className="text-charcoal/55 max-w-xl mx-auto mt-4 leading-relaxed">
-            Do buffet à decoração, realizamos eventos completos com dedicação, qualidade
-            e o toque especial da gastronomia baiana.
+            Da locação de materiais à decoração, oferecemos tudo para o seu evento com dedicação, qualidade e o charme especial da Bahia.
           </p>
         </div>
 

@@ -10,12 +10,12 @@ const navLinks = [
 ]
 
 const services = [
-  'Buffet Completo',
+  'Locação para Buffet',
   'Gastronomia Gourmet',
   'Confeitaria & Doces',
   'Locação de Materiais',
   'Decoração de Mesas',
-  'Buffet Baiano',
+  'Estilo Baiano',
 ]
 
 export default function Footer() {

@@ -6,7 +6,7 @@ const testimonials = [
     name: 'Maria Souza',
     event: 'Casamento',
     rating: 5,
-    text: 'A Penélope Eventos foi perfeita para o nosso casamento! Cada detalhe foi cuidado com tanto carinho. O buffet estava delicioso e a decoração das mesas superou todas as expectativas. Emocionante demais!',
+    text: 'A Penélope Eventos foi perfeita para o nosso casamento! Cada detalhe foi cuidado com tanto carinho. A estrutura de locação estava impecável e a decoração das mesas superou todas as expectativas. Emocionante demais!',
     initial: 'M',
   },
   {
@@ -30,7 +30,7 @@ const testimonials = [
     name: 'Roberto Lima',
     event: 'Confraternização',
     rating: 5,
-    text: 'Contratamos a Penélope para a confraternização da empresa. O resultado foi simplesmente impecável. Nossos clientes ficaram encantados com a organização e a qualidade do buffet.',
+    text: 'Contratamos a Penélope para a confraternização da empresa. O resultado foi simplesmente impecável. Nossos clientes ficaram encantados com a organização e a qualidade dos materiais locados.',
     initial: 'R',
   },
   {

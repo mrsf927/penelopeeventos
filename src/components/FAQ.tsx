@@ -20,7 +20,7 @@ const faqs = [
   {
     question: 'Qual o número mínimo de convidados para contratar o serviço?',
     answer:
-      'Trabalhamos a partir de 30 convidados para serviço de buffet completo. Para eventos menores ou coqueteleiras, temos pacotes especiais. Entre em contato pelo WhatsApp e montaremos uma proposta adequada ao tamanho e tipo do seu evento.',
+      'Trabalhamos a partir de 30 convidados para locação de materiais para buffet. Para eventos menores ou coqueteleiras, temos pacotes especiais. Entre em contato pelo WhatsApp e montaremos uma proposta adequada ao tamanho e tipo do seu evento.',
   },
   {
     question: 'Como funciona o processo de orçamento?',
@@ -28,9 +28,9 @@ const faqs = [
       'O orçamento é 100% gratuito e sem compromisso! Basta nos enviar uma mensagem pelo WhatsApp ou preencher o formulário de contato com a data, tipo de evento, número de convidados e o que deseja incluir no pacote. Retornamos em até 24 horas.',
   },
   {
-    question: 'Vocês fazem buffet baiano tradicional?',
+    question: 'Vocês têm materiais para buffet no estilo baiano?',
     answer:
-      'Com certeza! Essa é uma das nossas especialidades. Oferecemos culinária baiana autêntica: moqueca de peixe e camarão, vatapá, caruru, bobó de camarão, acarajé, além de pratos regionais servidos em panelas de barro com todo o sabor da Bahia.',
+      'Sim! Essa é uma das nossas especialidades. Temos em nosso acervo panelas de barro, rechauds e toda a estrutura para montar um buffet no estilo baiano tradicional, dando aquele toque autêntico da Bahia ao seu evento.',
   },
   {
     question: 'Posso personalizar o cardápio para restrições alimentares?',

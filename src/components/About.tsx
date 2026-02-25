@@ -83,7 +83,7 @@ export default function About() {
             <div className="col-span-2">
               <img
                 src="/images/buffet-1.jpeg"
-                alt="Buffet completo Penélope Eventos"
+                alt="Locação de materiais Penélope Eventos"
                 className="w-full h-64 object-cover rounded-lg shadow-lg"
               />
             </div>
