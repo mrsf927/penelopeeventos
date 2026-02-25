@@ -64,7 +64,7 @@ export default function Hero() {
             }`}
         >
           <p className="text-charcoal/70 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed font-light tracking-wide">
-            Buffet completo, decoração exclusiva e locação de materiais.
+            Decoração exclusiva e locação de materiais para buffets e eventos.
             <span className="block mt-2 text-gold-dark font-medium italic">Onde o requinte encontra a celebração.</span>
           </p>
         </div>
