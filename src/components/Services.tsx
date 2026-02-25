@@ -116,8 +116,8 @@ export default function Services() {
         <div className="mb-16">
           <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-gold/20 bg-charcoal">
             <video
-              src="/72d0s.mp4"
-              className="w-full aspect-video object-cover"
+              src="/services-video.mp4"
+              className="w-full aspect-video object-cover scale-[1.08] origin-top"
               controls
               muted
               autoPlay
