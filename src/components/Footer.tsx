@@ -12,10 +12,10 @@ const navLinks = [
 const services = [
   'Louças para Buffet',
   'Réchauds e Cubas',
-  'Talheres de Prata',
-  'Taças e Copos',
-  'Pratos e Travessas',
-  'Utensílios',
+  'Bandejas e Travessas',
+  'Expositores de Doces',
+  'Taças e Cristalaria',
+  'Peças em Barro',
 ]
 
 export default function Footer() {

@@ -19,33 +19,33 @@ const services = [
   },
   {
     id: 3,
-    title: 'Talheres de Prata',
+    title: 'Bandejas e Travessas',
     description:
-      'Conjuntos completos de talheres que adicionam um toque de requinte e elegância à composição da sua mesa.',
+      'Conjuntos de travessas e bandejas em diversos materiais para uma apresentação impecável de cada item do seu serviço.',
     image: '/images/gastronomia-2.jpeg',
     tag: null,
   },
   {
     id: 4,
-    title: 'Taças e Copos',
+    title: 'Expositores de Doces',
     description:
-      'Cristaleria fina e copos de diversos modelos para todos os tipos de bebidas, valorizando a experiência do seu evento.',
+      'Suportes e pratos elevados que valorizam bolos e doces finos, criando um cenário deslumbrante na sua mesa de sobremesas.',
     image: '/images/confeitaria-1.jpeg',
     tag: null,
   },
   {
     id: 5,
-    title: 'Pratos e Travessas',
+    title: 'Taças e Cristalaria',
     description:
-      'Peças em diversos tamanhos e formatos para uma apresentação impecável de cada momento da sua recepção.',
+      'Cristaleria fina e copos de diversos modelos para todos os tipos de bebidas, elevando o nível de requinte da sua recepção.',
     image: '/images/decoracao-1.jpeg',
     tag: null,
   },
   {
     id: 6,
-    title: 'Utensílios',
+    title: 'Peças em Barro',
     description:
-      'Arranjos florais, centros de mesa e todos os utensílios práticos e decorativos para criar um ambiente memorável.',
+      'Panelas e acessórios de barro que trazem o charme e a autenticidade da Bahia para a montagem do seu buffet típico.',
     image: '/images/buffet-baiano.jpeg',
     tag: 'Especialidade',
   },
