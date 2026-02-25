@@ -113,11 +113,11 @@ export default function Services() {
         </div>
 
         {/* Video Feature */}
-        <div className="mb-16">
-          <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-gold/20 bg-charcoal">
+        <div className="mb-16 flex justify-center">
+          <div className="relative rounded-[2rem] overflow-hidden shadow-2xl border-[6px] border-charcoal bg-charcoal max-w-[320px] md:max-w-[400px] w-full mx-auto ring-1 ring-gold/20">
             <video
               src="/services-video.mp4"
-              className="w-full aspect-video object-cover scale-[1.08] origin-top"
+              className="w-full aspect-[9/16] object-cover"
               controls
               muted
               autoPlay
@@ -126,9 +126,9 @@ export default function Services() {
             />
             <div className="absolute inset-0 bg-gradient-to-t from-charcoal/80 via-transparent to-transparent pointer-events-none" />
             <div className="absolute bottom-6 left-6 right-6 pointer-events-none">
-              <h3 className="text-gold font-serif text-2xl mb-2">Qualidade em cada detalhe</h3>
-              <p className="text-white/80 text-sm max-w-lg">
-                Veja um pouco da nossa dedicação e das peças exclusivas que transformam qualquer evento em uma celebração inesquecível.
+              <h3 className="text-gold font-serif text-xl mb-1 text-center">Qualidade em cada detalhe</h3>
+              <p className="text-white/80 text-xs text-center max-w-xs mx-auto">
+                Confira a sofisticação de nossas peças exclusivas.
               </p>
             </div>
           </div>
