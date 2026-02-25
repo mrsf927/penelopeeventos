@@ -68,7 +68,7 @@ export default function Services() {
         </div>
 
         {/* Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
           {services.map((service) => (
             <div
               key={service.id}
@@ -112,8 +112,30 @@ export default function Services() {
           ))}
         </div>
 
+        {/* Video Feature */}
+        <div className="mb-16">
+          <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-gold/20 bg-charcoal">
+            <video
+              src="/72d0s.mp4"
+              className="w-full aspect-video object-cover"
+              controls
+              muted
+              autoPlay
+              loop
+              playsInline
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-charcoal/80 via-transparent to-transparent pointer-events-none" />
+            <div className="absolute bottom-6 left-6 right-6 pointer-events-none">
+              <h3 className="text-gold font-serif text-2xl mb-2">Qualidade em cada detalhe</h3>
+              <p className="text-white/80 text-sm max-w-lg">
+                Veja um pouco da nossa dedicação e das peças exclusivas que transformam qualquer evento em uma celebração inesquecível.
+              </p>
+            </div>
+          </div>
+        </div>
+
         {/* Bottom CTA */}
-        <div className="text-center mt-12">
+        <div className="text-center">
           <a
             href="https://wa.me/5571996425492?text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento%20para%20meu%20evento."
             target="_blank"
