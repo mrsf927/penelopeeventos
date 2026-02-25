@@ -124,13 +124,6 @@ export default function Services() {
               loop
               playsInline
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-charcoal/80 via-transparent to-transparent pointer-events-none" />
-            <div className="absolute bottom-6 left-6 right-6 pointer-events-none">
-              <h3 className="text-gold font-serif text-xl mb-1 text-center">Qualidade em cada detalhe</h3>
-              <p className="text-white/80 text-xs text-center max-w-xs mx-auto">
-                Confira a sofisticação de nossas peças exclusivas.
-              </p>
-            </div>
           </div>
         </div>
 
