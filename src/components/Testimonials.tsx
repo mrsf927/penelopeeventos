@@ -6,7 +6,7 @@ const testimonials = [
     name: 'Maria Souza',
     event: 'Casamento',
     rating: 5,
-    text: 'A Penélope Eventos foi perfeita para o nosso casamento! Cada detalhe foi cuidado com tanto carinho. A estrutura de locação estava impecável e a decoração das mesas superou todas as expectativas. Emocionante demais!',
+    text: 'A Penélope Eventos foi perfeita para o nosso casamento! Cada detalhe foi cuidado com tanto carinho. A estrutura de locação estava impecável e a decoração do evento superou todas as expectativas. Emocionante demais!',
     initial: 'M',
   },
   {

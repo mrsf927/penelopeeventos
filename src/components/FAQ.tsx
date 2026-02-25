@@ -15,7 +15,7 @@ const faqs = [
   {
     question: 'Vocês fornecem todo o equipamento necessário?',
     answer:
-      'Sim! Temos em nosso acervo rechauds (retangulares e redondos), mesas, cadeiras, toalhas, louças completas, taças de cristal, centros de mesa e toda a estrutura para o seu evento. Trabalhamos também com decoração personalizada sob consulta.',
+      'Sim! Temos em nosso acervo rechauds (retangulares e redondos), louças completas, taças de cristal, centros de mesa e toda a estrutura para o seu evento. Trabalhamos também com decoração personalizada sob consulta.',
   },
   {
     question: 'Qual o número mínimo de convidados para contratar o serviço?',
@@ -35,7 +35,7 @@ const faqs = [
   {
     question: 'Vocês realizam a entrega e retirada dos materiais?',
     answer:
-      'Sim, oferecemos suporte logístico completo! Entregamos todas as louças, mesas, rechauds e demais materiais diretamente no local do seu evento. Também cuidamos da retirada após o término, proporcionando uma experiência sem preocupações.',
+      'Sim, oferecemos suporte logístico completo! Entregamos todas as louças, rechauds e demais materiais diretamente no local do seu evento. Também cuidamos da retirada após o término, proporcionando uma experiência sem preocupações.',
   },
   {
     question: 'Qual a forma de pagamento aceita?',
