@@ -99,7 +99,7 @@ export default function Services() {
                   {service.description}
                 </p>
                 <a
-                  href="https://wa.me/5571996425492?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20os%20serviços."
+                  href="https://wa.me/5571920010655?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20os%20serviços."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-1.5 text-wine text-sm font-medium hover:gap-3 transition-all duration-200"
@@ -130,7 +130,7 @@ export default function Services() {
         {/* Bottom CTA */}
         <div className="text-center">
           <a
-            href="https://wa.me/5571996425492?text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento%20para%20meu%20evento."
+            href="https://wa.me/5571920010655?text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento%20para%20meu%20evento."
             target="_blank"
             rel="noopener noreferrer"
             className="btn-gold inline-flex items-center gap-2"

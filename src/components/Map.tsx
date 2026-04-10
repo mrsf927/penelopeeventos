@@ -45,12 +45,12 @@ export default function Map() {
                   <div>
                     <div className="text-charcoal font-medium text-sm mb-0.5">Telefone / WhatsApp</div>
                     <a
-                      href="https://wa.me/5571996425492"
+                      href="https://wa.me/5571920010655"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-wine hover:text-wine-light transition-colors text-sm font-medium"
                     >
-                      (71) 99642-5492
+                      (71) 92001-0655
                     </a>
                   </div>
                 </div>
@@ -90,7 +90,7 @@ export default function Map() {
 
             {/* WhatsApp CTA */}
             <a
-              href="https://wa.me/5571996425492?text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento%20para%20meu%20evento."
+              href="https://wa.me/5571920010655?text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento%20para%20meu%20evento."
               target="_blank"
               rel="noopener noreferrer"
               className="mt-8 flex items-center justify-center gap-3 bg-[#25D366] hover:bg-[#20bc5a] text-white font-semibold py-4 px-6 rounded-lg transition-all duration-300 hover:shadow-lg hover:shadow-[#25D366]/30 active:scale-95"

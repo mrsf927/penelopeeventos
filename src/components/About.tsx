@@ -68,7 +68,7 @@ export default function About() {
 
             <div className="flex justify-center lg:justify-start">
               <a
-                href="https://wa.me/5571996425492?text=Olá!%20Quero%20saber%20mais%20sobre%20a%20Penélope%20Eventos."
+                href="https://wa.me/5571920010655?text=Olá!%20Quero%20saber%20mais%20sobre%20a%20Penélope%20Eventos."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-wine inline-block"

@@ -98,7 +98,7 @@ export default function FAQ() {
         <div className="text-center mt-10">
           <p className="text-charcoal/60 mb-4">Ainda tem dúvidas?</p>
           <a
-            href="https://wa.me/5571996425492?text=Olá!%20Tenho%20uma%20dúvida%20sobre%20os%20serviços."
+            href="https://wa.me/5571920010655?text=Olá!%20Tenho%20uma%20dúvida%20sobre%20os%20serviços."
             target="_blank"
             rel="noopener noreferrer"
             className="btn-wine inline-flex items-center gap-2"

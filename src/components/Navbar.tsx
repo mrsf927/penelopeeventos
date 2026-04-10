@@ -61,7 +61,7 @@ export default function Navbar() {
           {/* CTA Button */}
           <div className="hidden md:flex items-center gap-3">
             <a
-              href="https://wa.me/5571996425492?text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento."
+              href="https://wa.me/5571920010655?text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento."
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 btn-gold text-sm py-2 px-5"
@@ -100,7 +100,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="https://wa.me/5571996425492?text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento."
+            href="https://wa.me/5571920010655?text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento."
             target="_blank"
             rel="noopener noreferrer"
             onClick={handleLinkClick}

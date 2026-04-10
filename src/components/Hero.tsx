@@ -75,7 +75,7 @@ export default function Hero() {
             }`}
         >
           <a
-            href="https://wa.me/5571996425492?text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento%20para%20meu%20evento."
+            href="https://wa.me/5571920010655?text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento%20para%20meu%20evento."
             target="_blank"
             rel="noopener noreferrer"
             className="group relative flex items-center gap-3 bg-wine text-cream font-medium px-10 py-4 rounded-sm transition-all duration-300 hover:bg-wine-dark hover:shadow-xl active:scale-95 w-full sm:w-auto justify-center"
